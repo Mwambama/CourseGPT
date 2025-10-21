@@ -6,6 +6,8 @@ FOR  NOW THIS PROJECT IS WORKED IN HERE:      https://github.com/Mwambama/sdmay2
 TEAM MEMMBERS:
 
 <img width="842" height="393" alt="image" src="https://github.com/user-attachments/assets/d1f8702d-8f8c-49de-b026-8ace67d770a8" />
+<img width="803" height="233" alt="image" src="https://github.com/user-attachments/assets/1b74f158-6c6a-41fa-899e-b94e6949d477" />
+
 
 
 An LLM chat bot-like website that seeks to assist with various resources that display updated and trustworthy information on various topics, a platform to direct users toward relevant resources
